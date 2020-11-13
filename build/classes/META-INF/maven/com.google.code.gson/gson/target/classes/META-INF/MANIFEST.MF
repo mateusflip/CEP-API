@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Mateus Ramos
+Build-Jdk: 15.0.1
+Created-By: 15.0.1 (Oracle Corporation)
+Bnd-LastModified: 1605213926836
+Bundle-ManifestVersion: 2
+Bundle-Name: gson
+Bundle-SymbolicName: gson
+Bundle-Version: 2.8.5
+Tool: Bnd-3.1.0.201512181341
+
